@@ -8,7 +8,7 @@
 <h1>Privacy Policy</h1>
 <p><strong>Last Updated:</strong> January 2026</p>
 
-<p>This privacy policy governs your use of the software application <strong>Loje Fjalesh</strong> ("Application") for mobile devices that was created by Selim Balkan.</p>
+<p>This privacy policy governs your use of the software application <strong>Loje Fjalesh</strong> ("Application") for mobile devices that was created by Shqip.</p>
 
 <h2>1. Information Collection and Use</h2>
 <p>We prioritize your privacy. The Application collects limited information to support game functionality (leaderboards) and display advertisements.</p>
